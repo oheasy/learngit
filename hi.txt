@@ -3,3 +3,4 @@ remote
 local
 
 go
+let is go
